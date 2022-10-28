@@ -1,0 +1,29 @@
+body{
+    background: #f8e8a6;
+    margin: 8px;
+}
+h1{
+    text-align: center;
+    margin: 27px 0;
+    font-size: 40px;
+}
+p{
+    text-align: center;
+    margin: 20px 0;
+    font-size: 20px;
+}
+img{
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
+.box-link{
+    display: block;
+    text-align: center;
+}
+.link{
+    margin: 0 10px;
+    color: green;
+    font-size: 20px;
+}
